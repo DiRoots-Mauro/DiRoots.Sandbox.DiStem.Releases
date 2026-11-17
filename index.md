@@ -26,3 +26,7 @@ DiStem bundle for Autodesk Revit contains several Revit add-ins to boost your pr
 - Family Thumbnail
 
 [Download](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/){: .btn .btn-di-orange }
+
+Preview flow test DiStem first commit.
+
+![Preview flow test image]({{ '/assets/images/preview-flow-test.png' | relative_url }})
